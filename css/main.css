@@ -1,0 +1,37 @@
+.logo{
+	display: block;
+	margin: auto;
+	
+}
+ul{
+	margin: auto;
+	text-align: center;
+	border-top: solid black;
+	border-bottom: solid black;
+}
+li{
+	font-size: 40px;
+	text-decoration: none;
+	display: inline-block;
+	padding: 1px;
+}
+
+.grupal{
+	left: 100px;
+	position: relative;
+}
+
+.textolab{
+position: relative;
+padding-left:120px; 
+padding/right: 120px;
+
+}
+
+.nuestras{
+	display: inline-block;
+}
+
+.buttom{
+position: relative;
+}
